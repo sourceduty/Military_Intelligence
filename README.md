@@ -1,4 +1,4 @@
-![Military Intelligence](https://github.com/user-attachments/assets/2ef5defa-3d02-404e-aebb-a1ab4f65826d)
+![Military Intelligence](https://github.com/user-attachments/assets/2726cbe7-6dd0-4c53-a846-f3441355fb93)
 
 > Develop analyses on military strategy, intelligence operations, missions and history.
 
