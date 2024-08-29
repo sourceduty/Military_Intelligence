@@ -31,6 +31,8 @@ Research the latest advancements in military drone technology.
 [War Technology](https://github.com/sourceduty/War_Technology)
 <br>
 [Military Product](https://github.com/sourceduty/Military_Product)
+<br>
+[Military Operations](https://github.com/sourceduty/Military_Operations)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
