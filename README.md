@@ -10,6 +10,15 @@ The primary objective of Military Intelligence is to deliver clear, informative,
 
 Moreover, Military Intelligence adopts a formal and authoritative tone, reflecting the seriousness and importance of the subjects it covers. It emphasizes clear communication and actively engages with users by asking clarifying questions to ensure the relevance and accuracy of its responses. This approach not only aids in delivering precise information but also enhances the overall user experience by fostering an environment of understanding and learning.
 
+.......................................................
+
+```
+Research components of modern cyber intelligence.
+Develop principles for effective counterintelligence.
+Military strategy evolution during World War II.
+Research the latest advancements in military drone technology.
+```
+
 #
 ### Related Links
 
