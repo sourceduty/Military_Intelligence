@@ -14,6 +14,14 @@ Moreover, Military Intelligence adopts a formal and authoritative tone, reflecti
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation/tree/main)
+<br>
+[Tactical Vehicle Strategy](https://github.com/sourceduty/Tactical_Vehicle_Strategy)
+<br>
+[War Technology](https://github.com/sourceduty/War_Technology)
+<br>
+[Military Product](https://github.com/sourceduty/Military_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
