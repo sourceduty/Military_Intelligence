@@ -42,6 +42,8 @@ The creators and operators of this Military Intelligence GPT expressly disclaim 
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [Military Operations](https://github.com/sourceduty/Military_Operations)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
